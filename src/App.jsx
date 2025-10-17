@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-  <h1>o coxao é lindo</h1>
+      <h1>Aula de implantação</h1>
+      <img src="https://static.vecteezy.com/ti/fotos-gratis/t2/36324708-ai-gerado-cenario-do-uma-tigre-caminhando-dentro-a-floresta-foto.jpg" alt="tigre" />
     </>
   )
 }
